@@ -1,0 +1,21 @@
+Comandos do Gitbash:
+ls
+cd
+/
+cd ..
+cls ou ctrl+l
+tab 
+mkdir
+echo
+>
+del
+rmdir
+init
+add
+* ou -a
+.
+status
+remote
+push
+clone
+-m
