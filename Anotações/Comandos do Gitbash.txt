@@ -1,21 +1,22 @@
 Comandos do Gitbash:
-ls
-cd
-/
-cd ..
-cls ou ctrl+l
-tab 
-mkdir
-echo
->
-del
-rmdir
-init
-add
-* ou -a
-.
-status
-remote
-push
-clone
--m
+
+lista elementos no diretório		ls 
+change directory			cd 
+vai p/diretório específico		/ 
+volta 1 nível				cd .. 
+limpa terminal				cls ou ctrl+l 
+autocomplete				tab 					 
+cria diretório				mkdir					
+remove diretório			rmdir
+pinta na tela 				echo
+redireciona fluxo			>
+deleta					del
+inicia git				git init
+adiciona git				git add
+ref a todo				* ou -a
+ref a ocultos				.
+status do git				git status
+adiciona git remoto no local		git remote
+adiciona git local no remoto		git push
+clona git 				git clone
+fazer comentátio			-m ""
